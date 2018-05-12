@@ -1,0 +1,36 @@
+_repo: Peggy-Owen-at-Yorktown_36744
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Peck, H. J. (Henry Jarvis)
+    alias: Peck, Henry J. (Henry Jarvis)
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '34906'
+    url: http://www.gutenberg.org/2009/agents/34906
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Madison, Lucy Foster
+    birthdate: 1865
+    deathdate: 1932
+    gutenberg_agent_id: '33094'
+    url: http://www.gutenberg.org/2009/agents/33094
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Foster_Madison
+description: ''
+gutenberg_issued: '2011-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yorktown (Va.) -- History -- Siege, 1781 -- Juvenile fiction'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcc 'PZ'
+title: Peggy Owen at Yorktown
+url: http://www.gutenberg.org/ebooks/36744
