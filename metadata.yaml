@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33094
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Foster_Madison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36744#Peggy-Owen-at-Yorktown
 gutenberg_issued: '2011-07-15'
 gutenberg_type: Text
 identifiers:
